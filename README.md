@@ -6,8 +6,8 @@ This repo contains my solutions for **Week 8** of Harvard's [CS50x](https://pll.
 
 ## ✅ Projects
 
-### trivia
+### `trivia`
 An interactive trivia quiz built with HTML, CSS, and JavaScript. Features multiple choice and free response questions, with immediate feedback on correct or incorrect answers. Highlights DOM manipulation, event handling, and dynamic styling.
 
-### homepage
+### `homepage`
 A personal homepage built with HTML, CSS, JavaScript, and Bootstrap. Includes multiple pages, responsive design, and interactive elements. Demonstrates structuring content with HTML, styling with CSS, and enhancing user experience with JavaScript.
