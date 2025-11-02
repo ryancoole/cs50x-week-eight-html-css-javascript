@@ -10,4 +10,4 @@ This repo contains my solutions for **Week 8** of Harvard's [CS50x](https://pll.
 An interactive trivia quiz built with HTML, CSS, and JavaScript. Features multiple choice and free response questions, with immediate feedback on correct or incorrect answers. Highlights DOM manipulation, event handling, and dynamic styling.
 
 ### `homepage`
-A personal homepage built with HTML, CSS, JavaScript, and Bootstrap. Includes multiple pages, responsive design, and interactive elements. Demonstrates structuring content with HTML, styling with CSS, and enhancing user experience with JavaScript.
+A personal homepage built with HTML, CSS, JavaScript, and Bootstrap. Includes multiple pages, responsive design, and interactive elements. Demonstrates structuring content with HTML, styling with CSS, and enhancing user experience with JavaScript. You can access to site [HERE](https://ryancoole.github.io/cs50x-week-eight-html-css-javascript/homepage/index.html){:target="_blank"}.
